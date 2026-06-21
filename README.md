@@ -9,9 +9,19 @@
 
 ### 📊 Core Capabilities & Tech Stack
 
-*   **Business Intelligence & Visualization:** Power BI, DAX, Custom Power BI Visuals, Excel VBA
-*   **Data Engineering & Architecture:** Microsoft Fabric, SQL Server, SSIS, SSAS
-*   **Advanced Analytics:** Python, R
+**Business Intelligence & Visualization**  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge)
+![Excel VBA](https://img.shields.io/badge/Excel_VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+**Data Engineering & Architecture**  
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![SSIS / SSAS](https://img.shields.io/badge/SSIS_/_SSAS-5C2D91?style=for-the-badge)
+
+**Advanced Analytics**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ---
 
