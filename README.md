@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="mailto:info@nexusinsightcards.com">Contact Us</a> •
-  <a href="[https://nexusinsightstudio.github.io](https://nexusinsightcards.com/)/">Website</a>
+  <a href="[https://nexusinsightcards.com/">Website</a>
 </p>
 
 ---
