@@ -36,7 +36,7 @@
 
 <p align="center">
   <a href="https://nexusinsightstudio.github.io/">
-    <img src="demo.gif" alt="Nexus Insight Cards Dynamic Preview" width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="studio-brand.gif" alt="Nexus Insight Cards Dynamic Preview" width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   </a>
 </p>
 
