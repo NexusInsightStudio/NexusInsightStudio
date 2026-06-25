@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="5164c31f-aa0e-4b7f-a5d1-6803acc0dd2b.png" alt="Nexus Insight Studio Logo" width="150">
+  <img src="studio-brand.gif" alt="Nexus Insight Studio Animated Logo" width="300">
 </p>
 
 <h1 align="center">Welcome to Nexus Insight Studio 🚀</h1>
@@ -36,7 +36,7 @@
 
 <p align="center">
   <a href="https://nexusinsightstudio.github.io/">
-    <img src="studio-brand.gif" alt="Nexus Insight Cards Dynamic Preview" width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="image_853a03.jpg" alt="Nexus Insight Cards Preview" width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   </a>
 </p>
 
