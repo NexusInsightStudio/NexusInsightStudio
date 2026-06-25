@@ -40,7 +40,7 @@
   </a>
 </p>
 
-**[NexusInsightCards - Advanced Smart KPI Grid](https://nexusinsightstudio.github.io/)** is an enterprise-grade custom visual for Microsoft Power BI. It transforms standard reporting into an actionable executive dashboard by dynamically generating a CSS Grid of KPI cards based on input measures.
+**[NexusInsightCards - Advanced Smart KPI Grid](https://nexusinsightcards.com/)** is an enterprise-grade custom visual for Microsoft Power BI. It transforms standard reporting into an actionable executive dashboard by dynamically generating a CSS Grid of KPI cards based on input measures.
 
 * **High-Density Insights:** Smart narrative footers powered by dynamic DAX measures.
 * **Glanceability:** Integrated sparklines, variance indicators, and dynamic conditional formatting.
